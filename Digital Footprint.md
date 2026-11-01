@@ -1,7 +1,8 @@
 
 # Task 1
 
-![[Pasted image 20261006235204.png]]
+<img width="2164" height="1370" alt="image" src="https://github.com/user-attachments/assets/065ffc66-1fc7-4441-bbac-161da097c05e" />
+
 
 ```
 ┌──(root㉿kali)-[~/Desktop/tryhackme/osint]
