@@ -5,7 +5,7 @@
 **Category:** OSINT (Open-Source Intelligence)  
 **Difficulty:** Not specified  
 **Operating System:** Kali Linux  
-**Author:** Tofazzel Hossen Topu
+**Author:** xplo01t-z3ro
 
 ---
 
